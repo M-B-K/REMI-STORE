@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    height: calc(100vh - 60px);
+    height: 100vh;
 }
 
 .cont{
@@ -33,11 +33,11 @@ body {
 
 .icon {
     color: white;
-    font-size: 5rem;
+    font-size: 8rem;
 }
 
 @media (max-width: 7760px) {
     .imagLogo {
-        width: 25rem !important;
+        width: 30rem !important;
     }
 }
