@@ -8,7 +8,7 @@ body {
 }
 
 .cont{
-    background: linear-gradient(to top, #00D5FF, #323232);
+    background: linear-gradient(to top, #18dfe7, #00f6ff);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
