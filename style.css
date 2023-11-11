@@ -17,7 +17,7 @@ body {
     height: 100%;
 }
 .imagLogo {
-    width: 16rem;
+    /* width: 16rem; */
     margin: 0;
     display: block;
 }
@@ -33,11 +33,11 @@ body {
 
 .icon {
     color: white;
-    font-size: 7rem;
+    font-size: 7vh;
 }
 
 @media (max-width: 7760px) {
     .imagLogo {
-        width: 30rem !important;
+        width: 30vh;
     }
 }
